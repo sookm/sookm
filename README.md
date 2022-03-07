@@ -1,5 +1,5 @@
 ### Hi there 👋
-👩💻I am an entry-level developer.
+�👨‍💻  I am an entry-level developer.
 
 
 
