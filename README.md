@@ -1,10 +1,14 @@
 ### Hi there 👋
-�👨‍💻  I am an entry-level developer.
+👩‍💻 I'm an entry-level developer
+
+- 🔭 I’m working on a toy project to clone a web application service which is Todomate.
+- 🌱 I’m currently learning Javascript and React Js including CSS and HTML.
+- 👯 I’m looking to collaborate on any fun projects. 
+- 👩‍🎤 I'm interested in NFT and Web3,learning about them. 
 
 
-
+#### turi GitHub status
  [![Turi's github stats](https://github-readme-stats.vercel.app/api?username=sookm)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
