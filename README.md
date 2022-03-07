@@ -1,5 +1,5 @@
 ### Hi there 👋
- [![Turi's github stats](https://github-readme-stats.vercel.app/api?username=sookm)](https://github.com/anuraghazra/github-readme-stats)
+ [![ Turi's github stats](https://github-readme-stats.vercel.app/api?username=sookm)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
