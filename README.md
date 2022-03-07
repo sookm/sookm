@@ -8,7 +8,8 @@
 
 
 #### Turi GitHub status
- ![Turi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sookm&show_icons=true&theme=gradient)
+ ![Turi's Github Stats](https://github-readme-stats.vercel.app/api?username=sookm&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
 
 
 
