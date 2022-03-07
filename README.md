@@ -10,6 +10,7 @@
 #### Turi GitHub status
  ![ Turi's Github Stats](https://github-readme-stats.vercel.app/api?username=sookm&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sookm&layout=compact)](https://github.com/sookm/github-readme-stats)
 
 
 
