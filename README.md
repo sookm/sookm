@@ -8,7 +8,7 @@
 
 
 #### Turi GitHub status
- [![Turi's github stats](https://github-readme-stats.vercel.app/api?username=sookm)](https://github.com/anuraghazra/github-readme-stats)
+ ![Turi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sookm&show_icons=true&theme=gradient)
 
 
 
