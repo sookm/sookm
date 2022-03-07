@@ -6,7 +6,8 @@
 - 👯  ***I'm looking to collaborate on any fun projects .*** 
 - 👩‍🎤  ***I'm interested in NFT and Web3, learning about them with my study mates .***
 
-<p align="center"><a>[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-9cf?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soo-km/)](hhttps://www.linkedin.com/in/soo-km/) </a></p>
+<p align="center"><a href="https://www.linkedin.com/in/soo-km/"><img src="https://img.shields.io/badge/-LinkedIn-9cf?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soo-km/"/></a>  <a href="mailto:crankyyrabbit@gmail.com"><img src="https://img.shields.io/badge/Gmail-orange?style=flat-square&logo=Gmail&logoColor=white&link=mailto:crankyyrabbit@gmail.com"/></a></p>
+
 
 #### Turi GitHub status
  ![ Turi's Github Stats](https://github-readme-stats.vercel.app/api?username=sookm&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
