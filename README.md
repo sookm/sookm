@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### 👩‍💻 I'm an entry-level developer
 
-- 🔭  ***I'm working on a toy project to clone a web application service which is Todomate with a team .***
+- 🔭  ***I'm working on a toy project to clone a web application service which is Todomate, with a team .***
 - 🌱  ***I'm currently learning Javascript and React Js including CSS and HTML .***
 - 👯  ***I'm looking to collaborate on any fun projects .*** 
 - 👩‍🎤  ***I'm interested in NFT and Web3, learning about them with my study mates .***
