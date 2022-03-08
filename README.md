@@ -15,7 +15,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sookm&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/sookm/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sookm&repo=clonemate-front&bg_color=40,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/sookm/clonemate-front)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sookm&repo=clonemate-fron&bg_color=40,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/sookm/clonemate-front)
 
 <!--
 **sookm/sookm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
