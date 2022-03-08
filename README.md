@@ -7,7 +7,6 @@
 - 👩‍🎤  ***I'm interested in NFT and Web3, learning about them with my study mates .***
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-inactive?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soo-km/)](https://www.linkedin.com/in/soo-km/)
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsookm&count_bg=%238BB66A&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
