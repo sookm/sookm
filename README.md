@@ -10,13 +10,13 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsookm&count_bg=%23EF9D6A&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-#### *- Turi GitHub status*
+#### *👾Turi GitHub status*
 ![Turi's Github Status](https://github-readme-stats.vercel.app/api?username=sookm&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)  
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sookm&layout=compact&bg_color=fff&title_color=ff5f6d&text_color=ff5f6d)](https://github.com/sookm/github-readme-stats) -->
 
-#### *- Current Project*
+#### *👾Current Project*
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sookm&repo=clonemate-front&bg_color=30,ff5f6d,ffc371&title_color=fff&text_color=fff)](https://github.com/sookm/clonemate-front) 
 
 
