@@ -13,7 +13,7 @@
 #### Turi GitHub status
 ![Turi's Github Status](https://github-readme-stats.vercel.app/api?username=sookm&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sookm&layout=compact)](https://github.com/sookm/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sookm&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/sookm/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sookm&repo=nomadcoders_js_lecture&bg_color=40,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/sookm/github-readme-stats)
 
