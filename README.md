@@ -17,7 +17,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sookm&layout=compact&bg_color=fff&title_color=ff5f6d&text_color=ff5f6d)](https://github.com/sookm/github-readme-stats) -->
 
 #### *👾 Current Project*
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sookm&repo=clonemate-front&bg_color=30,f46b45,eea849&title_color=fff&text_color=fff)](https://github.com/sookm/clonemate-front) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sookm&repo=clonemate-front&bg_color=40,f46b45,eea849&title_color=fff&text_color=fff)](https://github.com/sookm/clonemate-front) 
 
 
 <!--
