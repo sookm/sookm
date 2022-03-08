@@ -11,7 +11,7 @@
 
 
 #### Turi GitHub status
-![Turi's Github Status](https://github-readme-stats.vercel.app/api?username=sookm&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sookm&layout=compact&bg_color=fff&title_color=ffc371&text_color=ffc371)](https://github.com/sookm/github-readme-stats)
+![Turi's Github Status](https://github-readme-stats.vercel.app/api?username=sookm&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sookm&layout=compact&bg_color=fff&title_color=ff5f6d&text_color=ff5f6d)](https://github.com/sookm/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sookm&repo=clonemate-front&bg_color=30,ff5f6d,ffc371&title_color=fff&text_color=fff)](https://github.com/sookm/clonemate-front)  
 
