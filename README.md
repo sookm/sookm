@@ -15,7 +15,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sookm&layout=compact)](https://github.com/sookm/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sookm&repo=github-readme-stats)](https://github.com/sookm/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sookm&repo=clonemate-front)](https://github.com/sookm/github-readme-stats)
 
 <!--
 **sookm/sookm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
