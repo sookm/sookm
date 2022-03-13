@@ -4,7 +4,7 @@
 - 🔭  ***I'm working on a toy project to clone a web application service which is Todomate, with a team.***
 - 🌱  ***I'm currently learning Javascript and ReactJS including CSS and HTML.***
 - 👯  ***I'm looking to collaborate on any fun projects.*** 
-- 👩‍🎤  ***I'm interested in NFT and Web3, learning about them with my study mates.***
+- 👩‍🎤  ***I'm interested in NFT and Web3 so learning about them with my study mates.***
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-inactive?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soo-km/)](https://www.linkedin.com/in/soo-km/) <br/>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsookm&count_bg=%23EF9D6A&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
