@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 👩‍💻 I'm turi and an entry-level developer
+### 👩‍💻 I'm turi and an entry-level Software Engineer
 
 - 🔭  ***I'm working on a toy project to clone a web application service which is Todomate, with a team.***
 - 🌱  ***I'm currently learning Javascript and ReactJS including CSS and HTML.***
