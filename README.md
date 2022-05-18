@@ -12,7 +12,6 @@
 
 #### *👾 Turi GitHub status*
 ![Turi's Github Status](https://github-readme-stats.vercel.app/api?username=sookm&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)  
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sookm)](https://github.com/sookm/github-readme-stats)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sookm&layout=compact&bg_color=fff&title_color=ff5f6d&text_color=ff5f6d)](https://github.com/sookm/github-readme-stats) -->
