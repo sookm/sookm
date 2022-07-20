@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### 👩‍💻 I'm turi and a front-end software engineer
 
-- 🔭  ***I'm working on a toy project to clone a web application service which is Todomate, with a team.***
+- 🔭  ***I'm working on a team project to clone a web application service which is [Todomate](https://www.todomate.net).***
 - 🌱  ***I'm currently learning Javascript and ReactJS including CSS and HTML.***
 - 👯  ***I'm looking to collaborate on any fun projects.*** 
 - 👩‍🎤  ***I'm interested in NFT and Web3 so learning about them with my study mates.***
