@@ -6,7 +6,7 @@
 - 👯  ***I'm looking to collaborate on any fun projects.*** 
 - 👩‍🎤  ***I'm interested in art-relevant projects and trying to learn about them.***
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-inactive?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soo-km/)](https://www.linkedin.com/in/soo-km/) <br/>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-inactive?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soo-km/)](https://www.linkedin.com/in/soo-km/)
 <a href="https://turi-zoningout.tistory.com/"><img src="https://img.shields.io/badge/Tistory-323232?style=flat&logo=TV Time&logoColor=white"/></a> <br/>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsookm&count_bg=%23EF9D6A&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
