@@ -1,11 +1,11 @@
 ### Hi there 👋
 ### 👩‍💻 I'm Soo, an entry-level software engineer
 
-- :australia:  ***I've worked in a web development team as an intern in Sydney.***
-- 🌱  ***I'm currently learning ReactJS and Typescript.***
-- 👯  ***I'm open to collaborating on any fun projects.*** 
-- 👩‍🎤  ***I'm interested in art-relevant projects and trying to learn about them.***
-- 🔭 ***I've worked on a team project to clone a web application service which is [Todomate](https://www.todomate.net).***
+- :australia:  ***I'm interning with a web development team in Sydney.***
+- 🌱  ***Currently expanding my skills in ReactJS and Typescript.***
+- 👯  ***Open to collaboration on exciting projects.*** 
+- 👩‍🎤  ***Interested in art-related projects and eager to learn more***
+- 🔭 ***Contributed to a team project to clone a web application service,[Todomate](https://www.todomate.net).***
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-inactive?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soo-km/)](https://www.linkedin.com/in/soo-km/)
 <a href="https://turi-zoningout.tistory.com/"><img src="https://img.shields.io/badge/Tistory-323232?style=flat&logo=TV Time&logoColor=white"/></a> <br/>
