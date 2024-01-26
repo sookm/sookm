@@ -1,10 +1,11 @@
 ### Hi there 👋
-### 👩‍💻 I'm Soo and an entry-level software engineer
+### 👩‍💻 I'm Soo, an entry-level software engineer
 
-- 🔭  ***I'm working on a team project to clone a web application service which is [Todomate](https://www.todomate.net).***
-- 🌱  ***I'm currently learning Javascript and ReactJS including CSS and HTML.***
-- 👯  ***I'm looking to collaborate on any fun projects.*** 
+- 🇦🇺  ***I've worked in a web development team as an intern in Australia***
+- 🌱  ***I'm currently learning ReactJS and Typescript***
+- 👯  ***I'm open to collaborating on any fun projects.*** 
 - 👩‍🎤  ***I'm interested in art-relevant projects and trying to learn about them.***
+- 🔭 ***I've worked on a team project to clone a web application service which is [Todomate](https://www.todomate.net).***
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-inactive?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soo-km/)](https://www.linkedin.com/in/soo-km/)
 <a href="https://turi-zoningout.tistory.com/"><img src="https://img.shields.io/badge/Tistory-323232?style=flat&logo=TV Time&logoColor=white"/></a> <br/>
