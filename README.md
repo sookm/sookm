@@ -1,7 +1,6 @@
 ### Hi there 👋
 ### 👩‍💻 I'm Soo, an entry-level software engineer
 
-- :australia:  ***I'm interning with a web development team in Sydney.***
 - 🌱  ***Currently expanding my skills in ReactJS and Typescript.***
 - 👯  ***Open to collaboration on exciting projects.*** 
 - 👩‍🎤  ***Interested in art-related projects and eager to learn more***
